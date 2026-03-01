@@ -111,8 +111,7 @@ The dashboard provides the following analytical insights:
 ---
 ## 7. Dashboard Image
 
-![Dashboard](![Dashbord](https://github.com/user-attachments/assets/2f1dc761-b2a9-429f-abb1-e046d3196c14)
-)
+![Dashbord](https://github.com/user-attachments/assets/0987181d-962a-4827-b34a-7ac866a79917)
 
 ---
 
