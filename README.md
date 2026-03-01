@@ -109,4 +109,35 @@ The dashboard provides the following analytical insights:
 - Global Content Distribution Map by Country of Origin
 
 ---
+## 7. Dashboard Image
+
+![Dashboard](![Dashbord](https://github.com/user-attachments/assets/2f1dc761-b2a9-429f-abb1-e046d3196c14)
+)
+
+---
+
+## 8. Analysis Report
+
+The dashboard analysis highlights clear trends in content distribution and financial performance across different content types and countries.
+
+Movies represent the highest share of total content, followed by TV Series and Stand-up Comedy. Movies also contribute the largest portion of total box office revenue and production investment.
+
+The Investment vs Return analysis shows that Movies generate significantly higher box office returns compared to other content types, indicating strong profitability. TV Series contribute substantially in terms of total seasons and episodes, reflecting long-term audience engagement.
+
+The average IMDb rating across content types remains relatively consistent, suggesting balanced audience reception across formats.
+
+Country-wise analysis indicates that the USA leads in both production budget and box office revenue, making it the dominant market in the dataset. Other countries such as the UK, South Korea, and India also show notable contributions.
+
+Overall, the analysis demonstrates a strong relationship between production investment and box office performance, particularly in Movies.
+---
+
+## 9. Conclusion
+
+This project demonstrates how structured data analysis and visualization can uncover meaningful insights from entertainment industry data.
+
+The analysis shows that Movies dominate in terms of revenue generation and overall investment, while TV Series contribute significantly through higher numbers of seasons and episodes. The Investment vs Return comparison highlights a strong positive relationship between production budget and box office revenue.
+
+Country-wise insights reveal that the USA leads in content production and revenue, indicating its dominant position in the industry. The average IMDb ratings across content types suggest relatively consistent audience satisfaction.
+
+Overall, the dashboard provides a comprehensive view of content distribution, financial performance, and global trends. It can support strategic decision-making in content production, investment planning, and market analysis.
 
