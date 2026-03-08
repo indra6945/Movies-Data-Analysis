@@ -1,4 +1,4 @@
-# 🎬 Movies Data Analysis Dashboard
+#  Movies Data Analysis Dashboard
 
 
 ## 1. Project Title
